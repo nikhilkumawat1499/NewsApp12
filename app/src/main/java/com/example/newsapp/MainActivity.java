@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Toolbar mainToolbar;
     private FirebaseAuth mAuth;
-
+    //nikhil here
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
